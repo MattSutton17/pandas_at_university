@@ -55,7 +55,7 @@ The columns are as follows:
 - **Academic marker:** Academic staff are those involved in teaching and research. 
 - **Contract marker:** The type of contract non-atypical staff are on.
 - **Academic Year:** Academic year of the data.
-- **Number:** The number of students in categories set out by the other columns.
+- **Number:** The number of staff in categories set out by the other columns.
 
 ## The Solutions
 
